@@ -20,6 +20,7 @@ data:
 ```
 2. create db(i used mysql:5.7), declare to webapp-db-deployment.yaml and create webapp service as a LoadBalancer
 
+### webapp-db-deployment.yaml
 PersistantVolume
 ```
 ---
@@ -93,6 +94,7 @@ spec:
 ```
 3. create webapp(i used wordpress:5.2) and declare to webapp-deployment.yaml
 
+###webapp-deployment.yaml
 PersistantVolume
 ```
 ---
