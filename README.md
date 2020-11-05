@@ -164,4 +164,8 @@ spec:
   type: LoadBalancer
 
 ```
-4. Developers can easily and securely access the cluster with credential (assessment-test-geekseat-.......json) 
+4. Developers can easily and securely access the cluster with credential (assessment-test-geekseat-.......json)
+```
+gcloud container clusters get-credentials <GKE cluster name> --region us-central1 --project assessment-test-geekseat
+
+```
