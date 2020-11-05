@@ -1,7 +1,7 @@
 # assessment-geekseat
 A. Simple Statefull Aplication (Wordpress + Mysql) (application flow attached app flow.png)
-B. 
-C. How I do the implementation (how-to notes)
+
+B. How I do the implementation (how-to notes)
 
 i used GKE instance to implement the test and pull images container from my dockerhub https://hub.docker.com/u/dikadhr
 1. encode the secrets and save to secrets.yaml
