@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "assessment-test-geekseat",
+  "private_key_id": "ea30410ef42e56e47e0d4dae2872ce8f8be5ff87",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhItKFeBmH4Qz+\nIj/mIucAFk2DY+95numUjR2828lY1Agw6fGwlSEYvxXwqqxA7WxzQdvqj2ZwwMRi\nvCW4We0AcOtpMT6pSXZmKv4UGHod2uVyQnL7JoS7/pEKzyQ8Y2joKT3KbSk8l9G1\n2MeI3ceeWoC6MR4R5XJ6lngaWKaxP/xRRi8uF4zNDhvb2rH06sw7C1eilTz+UIGH\nq4OaAfqKT7OcD0FH2vOf8xR6bYzU5KL344zoPLr7BcEpYJ4EXGXc454OmeFuCcyg\nDD7Yl9sWwrU8kfADJ8bYyiMZ49FALr2eeWavmbUS07aI6fsm1addOC9uDj32UnxT\n5HoH8P9lAgMBAAECggEAMwFAH5PTeOjAGE0rG9jZa7ghzHwWE4AwnAKSc6h5h8HV\nrzs5Ec/fZStZbaJFDxqbAMuxZoUhaLcLZvEIPKlG29w5QSYyc4jcpY3k7SmUdPIU\nHFw4j3StCqhENOYz5+h/qmU5hgRQHNWqYZ/gqL3SDSqk0knxbY2Fb4dqY1GlRi9z\ni3CiNpvp+VGpfIydsj2MPorQVfEg88W9mVSgcEI1LO/1yejBhNSvYWMh4QUJiCad\nuMMoGXRGU1y4Y5Bv7W7uB+tL8Y+Ioa8xOPny0Jg5aw9WzI2e6dmJlXgIg7GvcUV8\nF8VIjEA9HnMZvDGe8RZgHdc+L1WwqLuNymQEjIwamwKBgQD16n984HulfXCi6trp\nZgShhcA8yFXqy0PXUEa21eLBzMDCLslKMTtYuvXDwTtAKAgrHXG94o3hNdYQPD4b\nChv5EQGNMNq2vVWmi6x4OCpA9iNOP2OOao1WI+whWG+aqd+NmUdxsv9UmQ95VI/A\nGAWTwajRZDD/aYt4dSpjI0bdmwKBgQDqXi/EMACaklbTrG9KpIQsI0DDBrTTrfs3\n4AZca2I5m9J3ocQDhuZLH5GgRnPjFQ1D3vJiZVxecd0dc294pKo/hYnx0N4NaxM4\n9xpaz9wu4tuHBsKuDlusC2t6OKlTIcfiNifkC8D3c52zOrD9ag1BlGGUs+yA6mFd\nX75BIFPm/wKBgQCN9ThzFgNKnQcQhRKp+UJjG5rFe8BdMcmP2b94fC/SQChl8Cwy\nsAjaR9LnlfxmJLXSbcTjII1WnIVeCeiwIz3SoYaLws/+/X0cDzUYkROTPINVADKw\nW8ILH+GHvk1usvFiBEHB2NqcM19DYxU4hqVxjjGt7nB6gKsKdlhpskuOUQKBgHQ2\nifb9Wn9LCzTg7zqTA1sji+xo+edxAP3+3wia0tUAGEfr9ddN4AnmOH7CEJrMiIxc\nE9KIslm+mkcNQ3wOIsFmxTUcPc9nhducY/wdz++L3BFDX+uRARH5g6zSRdwMByJ7\neiJRVbkeIleKRdMS8EnReuWSpjZygh8b56pBjnkfAoGBAI97cWJqsYtOyXovl2zM\niFnJn9Mywtb0taUEHS9sDxiFwbWVcB5SICFRQxwfg4m9lZTebAeeAEr90yP0MBch\nU116epVPG7Oicbj64sdJFquul3Oa9IfML6JMYHuO6CFKfiJInoxfippJ16NohP0W\n24UJVJl78rekP1hNBQrXTBRi\n-----END PRIVATE KEY-----\n",
+  "client_email": "dikadhr@assessment-test-geekseat.iam.gserviceaccount.com",
+  "client_id": "114427300043146655693",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dikadhr%40assessment-test-geekseat.iam.gserviceaccount.com"
+}
